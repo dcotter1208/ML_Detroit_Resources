@@ -8,6 +8,7 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 1. [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
 2. [Deep Learning - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 3. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+4. [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 **Books:**
 1. [Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
