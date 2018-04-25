@@ -10,4 +10,4 @@ This is a repo for Machine Learning Detroit. If you're in the Detroit area and w
 
 **Books:**
 1. [Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
-2.
+2. [Intro to Machine lEarning With Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=sr_1_3?ie=UTF8&qid=1524617175&sr=8-3&keywords=intro+to+machine+learning+with+python)
