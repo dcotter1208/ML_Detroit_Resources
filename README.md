@@ -15,4 +15,3 @@ This is a repo for Machine Learning Detroit. If you're in the Detroit area and w
 
 **YouTube Talks**
 1. [Andrew Ng - AI is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc)
-2.
