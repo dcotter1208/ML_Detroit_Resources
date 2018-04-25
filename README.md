@@ -7,3 +7,7 @@ This is a repo for Machine Learning Detroit. If you're in the Detroit area and w
 **Online Courses:**
 1. [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
 2. [Deep Learning - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+
+**Books:**
+1. [Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
+2.
