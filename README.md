@@ -18,4 +18,4 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 1. [Andrew Ng - AI is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc)
 
 **Mobile Development**
-1. [Google ML Kit (https://developers.google.com/ml-kit/)]
+1. [Google ML Kit](https://developers.google.com/ml-kit/)
