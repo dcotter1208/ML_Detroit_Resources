@@ -15,7 +15,7 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 2. [Intro to Machine Learning With Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=sr_1_3?ie=UTF8&qid=1524617175&sr=8-3&keywords=intro+to+machine+learning+with+python)
 
 **YouTube Talks**
-1. [Andrew Ng - AI is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc)
+1. [AI is the New Electricity - Andrew Ng](https://www.youtube.com/watch?v=21EiKfQYZXc)
 
 **Mobile Development**
 1. [Google ML Kit](https://developers.google.com/ml-kit/)
