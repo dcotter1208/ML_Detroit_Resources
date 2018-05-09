@@ -20,3 +20,6 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 
 **Mobile Development**
 1. [Google ML Kit](https://developers.google.com/ml-kit/)
+
+**Machine Learning Detroit Talks**
+1. [Kaggle Housing by Lauren](https://github.com/LaurenHa/Kaggle-Housing)
