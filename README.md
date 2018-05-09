@@ -13,6 +13,7 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 **Books:**
 1. [Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
 2. [Intro to Machine Learning With Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=sr_1_3?ie=UTF8&qid=1524617175&sr=8-3&keywords=intro+to+machine+learning+with+python)
+3. [Data Strategy - Bernard Marr](https://www.amazon.com/Data-Strategy-Profit-Analytics-Internet/dp/074947985X)
 
 **YouTube Talks**
 1. [AI is the New Electricity - Andrew Ng](https://www.youtube.com/watch?v=21EiKfQYZXc)
