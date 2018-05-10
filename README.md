@@ -8,7 +8,8 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 1. [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
 2. [Deep Learning - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 3. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
-4. [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
+4. [Pandas - Google Crash Course](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=en)
+5. [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 **Books:**
 1. [Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
@@ -23,3 +24,4 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 
 **Machine Learning Detroit Talks**
 1. [Kaggle Housing by Lauren](https://github.com/LaurenHa/Kaggle-Housing)
+2. [Linear Regression w/ Scikit-learn - Donovan](https://github.com/dcotter1208/Housing_Prices_Linear_Regression)
