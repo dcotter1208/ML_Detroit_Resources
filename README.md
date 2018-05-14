@@ -11,6 +11,7 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 4. [Pandas - Google Crash Course](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=en)
 5. [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 6. [Intro to TensorFlow.js - Dan Shiffman](https://www.youtube.com/watch?v=Qt3ZABW5lD0)
+7. [Deep Learning & Neural Networks w/ Python - Skillshare](https://www.skillshare.com/classes/Deep-Learning-and-Neural-Networks-with-Python/45606211?via=browse-rating-data-science)
 
 **Books:**
 1. [Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
