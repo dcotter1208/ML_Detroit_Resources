@@ -17,6 +17,7 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 1. [Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
 2. [Intro to Machine Learning With Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=sr_1_3?ie=UTF8&qid=1524617175&sr=8-3&keywords=intro+to+machine+learning+with+python)
 3. [Data Strategy - Bernard Marr](https://www.amazon.com/Data-Strategy-Profit-Analytics-Internet/dp/074947985X)
+4. [Machine Learning w/ Python Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-preprocessing/dp/1491989386)
 
 **YouTube Talks**
 1. [AI is the New Electricity - Andrew Ng](https://www.youtube.com/watch?v=21EiKfQYZXc)
@@ -28,3 +29,6 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 1. [Kaggle Housing by Lauren](https://github.com/LaurenHa/Kaggle-Housing)
 2. [Linear Regression w/ Scikit-learn - Donovan](https://github.com/dcotter1208/Housing_Prices_Linear_Regression)
 3. [Intro to Pandas - Tobi](https://docs.google.com/presentation/d/1cHPq15CXUcNfgPUIy0S_-XhtDLu4xb0XMkROzr6E7dY/edit?usp=sharing)
+
+**Other:**
+1. [ML Flashcards](https://machinelearningflashcards.com/?ref=producthunt)
