@@ -24,6 +24,8 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 
 **Mobile Development**
 1. [Google ML Kit](https://developers.google.com/ml-kit/)
+2. [Core ML](https://developer.apple.com/documentation/coreml)
+3. [AWS Mobile](https://docs.aws.amazon.com/aws-mobile/latest/developerguide/how-to-ios-machine-learning.html)
 
 **News Letters**
 1. [Quick Theories - QuHarrison Terry](https://quharrison.com)
