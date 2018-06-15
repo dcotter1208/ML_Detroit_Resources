@@ -18,6 +18,7 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 2. [Intro to Machine Learning With Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=sr_1_3?ie=UTF8&qid=1524617175&sr=8-3&keywords=intro+to+machine+learning+with+python)
 3. [Data Strategy - Bernard Marr](https://www.amazon.com/Data-Strategy-Profit-Analytics-Internet/dp/074947985X)
 4. [Machine Learning w/ Python Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-preprocessing/dp/1491989386)
+5. [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
 
 **YouTube Talks**
 1. [AI is the New Electricity - Andrew Ng](https://www.youtube.com/watch?v=21EiKfQYZXc)
