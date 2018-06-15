@@ -38,5 +38,8 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 **Datasets:**
 1. [50 Best Free Datasets for ML](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
 
+**GitHub Repos:**
+1. [Artificial Intelligence A Modern Approach (multiple programming languages)](https://github.com/aimacode)
+
 **Other:**
 1. [ML Flashcards](https://machinelearningflashcards.com/?ref=producthunt)
