@@ -33,5 +33,8 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 2. [Linear Regression w/ Scikit-learn - Donovan](https://github.com/dcotter1208/Housing_Prices_Linear_Regression)
 3. [Intro to Pandas - Tobi](https://docs.google.com/presentation/d/1cHPq15CXUcNfgPUIy0S_-XhtDLu4xb0XMkROzr6E7dY/edit?usp=sharing)
 
+**Datasets:**
+1. [50 Best Free Datasets for ML](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
+
 **Other:**
 1. [ML Flashcards](https://machinelearningflashcards.com/?ref=producthunt)
