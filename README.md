@@ -35,6 +35,8 @@ This is a machine learning resource repo for the Machine Learning Detroit meetup
 1. [Kaggle Housing by Lauren](https://github.com/LaurenHa/Kaggle-Housing)
 2. [Linear Regression w/ Scikit-learn - Donovan](https://github.com/dcotter1208/Housing_Prices_Linear_Regression)
 3. [Intro to Pandas - Tobi](https://docs.google.com/presentation/d/1cHPq15CXUcNfgPUIy0S_-XhtDLu4xb0XMkROzr6E7dY/edit?usp=sharing)
+4. [Cause, Effect, and Using Your Models - Tony](https://drive.google.com/file/d/1NcHBITqz8e8qx7vheL_OI21rmgeAWzR-/view)
+   * [Video](https://www.periscope.tv/w/1nAKEQoBWRvKL)
 
 **Datasets:**
 1. [50 Best Free Datasets for ML](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
